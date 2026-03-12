@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -39,3 +40,7 @@ An SAP Fiori application for data overview
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+=======
+# Z_TEST_ABAPGIT
+first repo for abapGit testing 
+>>>>>>> 538d3993d67ca855aa6bb60557b9817e72175c46
